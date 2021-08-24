@@ -1,2 +1,4 @@
 # Desafio1
-Learning to do codes.
+
+Hi there! This is me, Vanessa.
+I'm just starting to learn about codes.
