@@ -1,0 +1,1 @@
+Hi there, this is a test of my first script in powershell.
